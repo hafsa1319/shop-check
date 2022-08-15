@@ -74,7 +74,7 @@
       "colorText": "#161616",
       "colorLink": "#000000",
       "underlineLink": false,
-      "text": "Wenn Sie fortfahren, erklären Sie sich mit unserem <a href='terms.html'>https://hafsa1319.github.io/shop-check/agb.html#article1-g</a> und <a href='https://hafsa1319.github.io/shop-check/datenschutz.html#article1-i'>Privacy Policy</a>."
+      "text": "Wenn Sie fortfahren, erklären Sie sich mit unserem <a href='https://hafsa1319.github.io/shop-check/agb.html#article1-g'>Terms of Service</a> und <a href='https://hafsa1319.github.io/shop-check/datenschutz.html#article1-i'>Privacy Policy</a>."
     },
     "PWA": {
       "enabled": true,
@@ -82,7 +82,7 @@
       "icon": "@PROJECT_PATH@/assets/images/favicon-removebg-preview-512x512.png",
       "themeColor": "#6148ff"
     },
-    "mbrsiteDomain": "gnxy3tubin",
+    "mbrsiteDomain": "qd5u2xxhuk",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
