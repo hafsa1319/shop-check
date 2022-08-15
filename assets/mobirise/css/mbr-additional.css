@@ -1468,8 +1468,8 @@ b {
   }
 }
 .cid-teyWUzBnnE .card-img-top {
-  width: 40px;
-  height: 40px;
+  width: 100px;
+  height: 100px;
 }
 .cid-teyWUzBnnE li {
   margin-bottom: 16px;
@@ -1487,6 +1487,9 @@ b {
   top: 0;
 }
 .cid-teyWUzBnnE .title-section .mbr-section-title {
+  text-align: center;
+}
+.cid-teyWUzBnnE .mbr-section-subtitle {
   text-align: center;
 }
 .cid-teAqzas7Xc {
@@ -1739,8 +1742,8 @@ b {
   }
 }
 .cid-tezgtww2HN .card-img-top {
-  width: 40px;
-  height: 40px;
+  width: 100px;
+  height: 100px;
 }
 .cid-tezgtww2HN li {
   margin-bottom: 16px;
