@@ -1407,7 +1407,7 @@ b {
   }
 }
 .cid-teCUBasiDN .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 2rem;
   color: #369be5;
 }
 .cid-teCUBasiDN .iconfont-wrapper {
@@ -1417,14 +1417,19 @@ b {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 6rem;
-  height: 6rem;
+  width: 4rem;
+  height: 4rem;
 }
 .cid-teCUBasiDN .row {
   justify-content: center;
 }
 .cid-teCUBasiDN .card {
   margin-bottom: 3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 20px;
+  width: 175px;
+  box-shadow: 0px 10px 20px 0px rgba(29, 29, 27, 0.2);
 }
 .cid-teCUBasiDN .card-title {
   margin-top: 1rem;
