@@ -968,7 +968,7 @@ b {
 }
 @media (min-width: 992px) {
   .cid-t5xj6X05NG .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 5.3rem);
   }
 }
 .cid-t5xj6X05NG .navbar.collapsed .dropdown-menu .dropdown-submenu {
